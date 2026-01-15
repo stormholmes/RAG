@@ -61,10 +61,7 @@ An intelligent Retrieval-Augmented Generation (RAG) chatbot built with Streamlit
 
 ```
 ├── pages/
-│   ├── 🚀_NLP_RAG_Chatbot.py    # Main RAG chatbot
-│   ├── 📄_PDF_Chatbot.py         # PDF-only chatbot
-│   ├── 🖼️_Image_Chatbot.py       # Image chatbot
-│   └── 💬_Narrative_Chatbot.py   # Narrative chatbot
+│   └──  🚀_NLP_RAG_Chatbot.py    # Main RAG chatbot
 ├── data/                         # Chat history storage
 ├── faiss_index/                  # Vector store files
 └── requirements.txt             # Dependencies
