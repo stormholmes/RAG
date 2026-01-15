@@ -86,4 +86,3 @@ OPENAI_API_KEY=your_openai_api_key_here
 ---
 
 **Built for NLP course RAG project with advanced document processing capabilities**
-# NLP_Project
